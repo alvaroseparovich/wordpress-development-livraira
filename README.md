@@ -14,7 +14,7 @@ colima start --cpu 2 --memory 4 --disk 60 --with-kubernetes
 ```
 
 ## Prepare
-Se estiver com processador arm (Mac M1) nenhum paço a mais
+Se estiver com processador arm (Mac M1) nenhum paço a mais   
 Se estiver usando processador x86 (tradicional) remova `arm64v8/` do docker file
 
 ## Start Up
